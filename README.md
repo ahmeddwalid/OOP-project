@@ -512,6 +512,7 @@ Alsayed Aly
 # Acknowledgments
 
 * [Java Documentation](https://docs.oracle.com/en/java/)
+* Mohaned ElDeeb [get in touch](mohanedeldeeb27@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
