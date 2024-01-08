@@ -82,7 +82,7 @@ Water, $2
 <!--UML-->
 # The UML
 
-![Unified Modeling Language](images/UML.svg "The UML")
+![Unified Modeling Language](images/UML.png "The UML")
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
