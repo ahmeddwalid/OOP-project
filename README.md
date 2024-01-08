@@ -71,7 +71,7 @@ Water, $2
 
 - UML diagram
 - JOptionPane is used for the GUI to display and take inputs from the user
-- Added an abstract classes
+- Added abstract classes
 - Added polymorphism
 - Added screenshots of the run 
 
